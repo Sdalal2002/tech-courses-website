@@ -293,7 +293,7 @@
         font-size: 2.9rem;
      }
      .section-services{
-         height:232vh;
+         height:110vh ! important;
          width: 100%;
          align-items: center;
      }
@@ -301,21 +301,21 @@
         margin:3px;
         height:80px;
         width:80px;
-        margin-left: 91px !important;
+        margin-left: 68px !important;
     }
     .courses{
         margin-bottom:14px !important;
     }
     .courses h3{
         font-size:14px;
-        margin-left: 82px !important;
+        margin-left: 65px !important;
     }
      .section-hero{
          height:23vh;
      }
      
      .about{
-         height: 127vh;
+         height: 142vh ! important;
      }
      .hero p{
         background-color:whitesmoke;
