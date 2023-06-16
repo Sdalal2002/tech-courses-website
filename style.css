@@ -287,8 +287,8 @@
         height: 4rem;
       }
     .navbar-list{
-        margin-right:-3px;
-        padding:9px;
+        margin-right:-39px;
+        padding:14px;
     }
     .section-services p{
         font-size: 2.9rem;
@@ -350,7 +350,7 @@
         height:84vh;
         }
     .navbar-list li{
-        padding:14px;
+        padding:10px;
         }
 }
 @media(max-width:1030px){
