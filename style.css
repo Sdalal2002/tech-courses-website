@@ -330,6 +330,21 @@
         word-spacing: 4px;
     line-height: 30px;
     }
+     .box{
+        width: 334px;
+        height: 414px;
+        margin: 0 50px 0 19px;
+        padding:61px;
+    }
+    .form button {
+        font-size: 0.8rem;
+        padding: 6px 4px;
+        font-weight: 400;
+    }
+    .form{
+        padding: 14px;
+        margin:-13px;
+    }
 }
 @media(max-width:1030px){
     .courses{
